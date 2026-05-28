@@ -1,0 +1,32 @@
+aid: city-gda-sk
+name: City, Gdańsk
+description: "Gdańsk (PL) City Open Data"
+url: https://ckan.multimediagdansk.pl/en
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: City, Gdańsk
+    description: "Gdańsk (PL) City Open Data"
+    humanURL: https://ckan.multimediagdansk.pl/en
+    baseURL: https://ckan.multimediagdansk.pl/en
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://ckan.multimediagdansk.pl/en
+common:
+  - type: Website
+    url: https://ckan.multimediagdansk.pl/en
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
