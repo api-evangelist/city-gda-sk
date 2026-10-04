@@ -39,7 +39,6 @@ apis:
   - name: City, Gdańsk
     description: "Gdańsk (PL) City Open Data"
     humanURL: https://ckan.multimediagdansk.pl/en
-    baseURL: https://ckan.multimediagdansk.pl/en
     tags:
       - Government
     properties:
